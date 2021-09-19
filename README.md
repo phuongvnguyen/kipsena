@@ -1,10 +1,13 @@
 # kipsena
 
 ### What is kipsa?
-**kipsa** stands for **Ki**en **p**huong **sea**alytics **a**nalytics, which has beeen developed and maintained by Phuong V. Nguyen and Kien T. Tran. 
+**kipsa** stands for **Ki**en **P**huong **s**ntiment **a**nalytics, which has beeen developed and maintained by Phuong V. Nguyen and Kien T. Tran. This package can automate to do the following tasks:
 
-One can install pypa and use it locally as follows.
+- web scraping.
+- sentiment analytics.
+
+One can install kipsa and use it locally as follows.
 
 ```
-pip install -i https://test.pypi.org/simple/ pypa==0.1.14
+git clone https://github.com/phuongvnguyen/kipsena.git
 ```
