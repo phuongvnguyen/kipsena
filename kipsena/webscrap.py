@@ -1,5 +1,6 @@
 """
 This program is to scrap news from cafef.vn
+author: Phuong V. Nguyen (phuongnv@iuj.ac.jp)
 """
 import pandas as pd
 import requests
